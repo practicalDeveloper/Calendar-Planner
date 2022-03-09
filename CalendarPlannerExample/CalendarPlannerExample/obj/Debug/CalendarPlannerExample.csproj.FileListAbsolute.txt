@@ -1,0 +1,20 @@
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\CalendarPlannerExample.exe
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\CalendarPlannerExample.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\WeekPlanner.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.Form1.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.Properties.Resources.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.csproj.GenerateResource.Cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.exe
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.exe
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\CalendarPlannerExample.exe
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\CalendarPlannerExample.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\bin\Debug\WeekPlanner.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.Form1.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.Properties.Resources.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\CalendarPlannerExample\obj\Debug\CalendarPlannerExample.csproj.GenerateResource.Cache

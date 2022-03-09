@@ -1,0 +1,14 @@
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\bin\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\bin\Debug\WeekPlanner.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.CalendarPlanner.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.csproj.GenerateResource.Cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample (1)\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\bin\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\bin\Debug\WeekPlanner.pdb
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.CalendarPlanner.resources
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.csproj.GenerateResource.Cache
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.dll
+C:\Users\yjuhno\Desktop\CalendarPlannerExample\CalendarPlannerExample\WeekPlanner\obj\Debug\WeekPlanner.pdb
