@@ -1,4 +1,6 @@
 # The control similar to the Outlook Calendar control
+The source code for the article https://www.codeproject.com/Articles/252247/Calendar-Planner
+
 This is a .NET WinForms control which allows to fetch data from database and manipulate it like in Outlook Calendar Planner, but with some differences.
 
 ![Image alt](https://github.com/practicalDeveloper/Calendar-Planner/blob/main/Images/Header1.png)
@@ -106,4 +108,3 @@ row.Items.Add(item);
 
 ```
 
-The source code for the article https://www.codeproject.com/Articles/252247/Calendar-Planner
