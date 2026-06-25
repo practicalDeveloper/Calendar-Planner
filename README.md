@@ -21,5 +21,27 @@ Each item in the row can be updated individually. You can change the background 
 
 In order to manage the behaviour of the control, you can use different properties. Some of them are:
 
+- `CurrentDate`: gets/sets calendar date
+- `DatesIntervalMode`: possible modes to show date intervals in the header
+- `DayCount`: day count to show by the calendar
+- `GridCellHeight`: height of each row
+- `HeaderStyleMode`: possible modes to fill background header
+- `IsAllowedDraggingBetweenRows`: allows/disallows item drag/drop between rows
+- `ItemHeight`: height of each item
+- `LeftMargin`: margin of left column
+- `SelectedRowIndex`: gets the index of the selected row
+- `SelectedItem`: gets the selected item
+- `Rows`: list of rows of the calendar
+- `Items`: list of items of the row
+- `Columns`: columns in the left side of the control
+- `IsAllowedTreeViewDrawing`: enables/disables lines drawing like in treeview
+
+Events:
+
+- `ItemClick`: occurs when an item is clicked
+- `ItemDoubleClick`: occurs when an item is double-clicked
+- `RowClick`: occurs when a row is clicked
+- `ItemDatesChanged`: occurs when an item date range has changed
+- `ItemTextEdited`: occurs when an item text is edited
 
 The source code for the article https://www.codeproject.com/Articles/252247/Calendar-Planner
